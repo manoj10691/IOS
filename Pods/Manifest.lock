@@ -1,0 +1,38 @@
+PODS:
+  - ABSteppedProgressBar (0.2.2)
+  - Alamofire (5.2.2)
+  - FittedSheets (2.3.0)
+  - JGProgressHUD (2.2)
+  - SDWebImage (5.8.4):
+    - SDWebImage/Core (= 5.8.4)
+  - SDWebImage/Core (5.8.4)
+  - SwiftyJSON (5.0.0)
+
+DEPENDENCIES:
+  - ABSteppedProgressBar
+  - Alamofire (~> 5.2)
+  - FittedSheets
+  - JGProgressHUD
+  - SDWebImage (~> 5.0)
+  - SwiftyJSON
+
+SPEC REPOS:
+  trunk:
+    - ABSteppedProgressBar
+    - Alamofire
+    - FittedSheets
+    - JGProgressHUD
+    - SDWebImage
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  ABSteppedProgressBar: a8860622d192e55a13f64d8830e25e29c1e3f471
+  Alamofire: 814429acc853c6c54ff123fc3d2ef66803823ce0
+  FittedSheets: c64310ca8fd55846703a272da3ea3916d381d839
+  JGProgressHUD: d83d7a981b85d11205e19ff8ad5bb9c40571c847
+  SDWebImage: cf6922231e95550934da2ada0f20f2becf2ceba9
+  SwiftyJSON: 36413e04c44ee145039d332b4f4e2d3e8d6c4db7
+
+PODFILE CHECKSUM: ab3a4ad1bda1034425c171891d01f85f757794d9
+
+COCOAPODS: 1.10.1
